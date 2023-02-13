@@ -10,6 +10,6 @@ Using our current knowledge of JavaScript, create a random password generator th
 
 ## Links
 
-https://github.com/dponsones/Challenge-3.gitLinks to an external site.
+https://github.com/dponsones/Challenge-3.git
 
 https://dponsones.github.io/Challenge-3/
